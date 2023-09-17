@@ -1,4 +1,5 @@
-# Project-Smart-Home
+# Project-Smart-Home_Using PIC18F46K20
+
 
  1-Description :
 Master micro-controller for my smart home system project c programming language used to control temperature sensor, real time clock sensor, external eeprom, i2c master mode, and usart in asynchronous master mode.
